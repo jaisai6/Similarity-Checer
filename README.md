@@ -1,1 +1,1 @@
-# Similarity-Checer
+# Similarity-Checker
